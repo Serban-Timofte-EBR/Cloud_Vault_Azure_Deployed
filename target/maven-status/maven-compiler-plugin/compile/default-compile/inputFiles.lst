@@ -1,0 +1,10 @@
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/CloudVaultApplication.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/controller/AuthController.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/controller/FileController.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/dto/FileMetadataRequestDTO.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/dto/FileMetadataResponseDTO.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/model/FileMetadata.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/repository/FileMetadataRepository.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/security/JwtUtil.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/security/SecurityConfig.java
+/Users/serbantimofte/Documents/Codes /Cloud_and_Security/CloudVault/src/main/java/eu/learn/ro/cloudvault/service/FileService.java

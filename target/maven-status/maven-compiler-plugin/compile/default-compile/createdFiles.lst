@@ -1,0 +1,10 @@
+eu/learn/ro/cloudvault/dto/FileMetadataRequestDTO.class
+eu/learn/ro/cloudvault/security/SecurityConfig.class
+eu/learn/ro/cloudvault/model/FileMetadata.class
+eu/learn/ro/cloudvault/repository/FileMetadataRepository.class
+eu/learn/ro/cloudvault/controller/AuthController.class
+eu/learn/ro/cloudvault/security/JwtUtil.class
+eu/learn/ro/cloudvault/CloudVaultApplication.class
+eu/learn/ro/cloudvault/dto/FileMetadataResponseDTO.class
+eu/learn/ro/cloudvault/controller/FileController.class
+eu/learn/ro/cloudvault/service/FileService.class
